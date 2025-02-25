@@ -23,7 +23,7 @@ This interactive web application simulates military workforce dynamics using sys
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/military-workforce-dynamics.git
+   git clone https://github.com/bryankappa/MWSdynamics.git
    cd military-workforce-dynamics
    ```
 
