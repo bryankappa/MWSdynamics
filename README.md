@@ -89,5 +89,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Military workforce planning concepts derived from standard military human resources practices
 
 ---
-
-*Note: Replace "insert_screenshot_here.png" with an actual screenshot of your application to help users understand what the tool looks like.*
