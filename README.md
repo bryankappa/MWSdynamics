@@ -2,8 +2,8 @@
 
 This interactive web application simulates military workforce dynamics using system dynamics principles. The model allows users to explore how different recruitment, promotion, and attrition rates affect the structure and composition of military forces over time.
 
-![Military Workforce Planning Application Screenshot](![image](https://github.com/user-attachments/assets/33c1f479-cf48-4dbc-b8e4-815694bbb892)
-)
+![image](https://github.com/user-attachments/assets/1c969a99-e4cf-4013-b91a-f050b213c8c5)
+
 
 ## Features
 
